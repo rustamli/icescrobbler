@@ -1,4 +1,4 @@
-# icescrobller
+# icescrobbler
 
 A Last.fm scrobbler for SHOUTcast or Icecast broadcasts
 
@@ -7,13 +7,13 @@ Based on **[simple-lastfm](https://github.com/atomjack/simple-lastfm)** and **[n
 ## Installation 
 
 ```
-npm install icescrobller -g
+npm install icescrobbler -g
 ```
 
 ## Usage
 
 ```
-icescrobller [your-lastfm-username] [your-lastfm-password] [stream-url]
+icescrobbler [your-lastfm-username] [your-lastfm-password] [stream-url]
 ```
 
 `strean-url` - is a url of SHOUTcast or Icecast broadcasts
@@ -21,7 +21,7 @@ icescrobller [your-lastfm-username] [your-lastfm-password] [stream-url]
 *example:*
 
 ```
-icescrobller johndoe123 password1234 http://mp3.nashe.ru/rock-128.mp3
+icescrobbler johndoe123 password1234 http://mp3.nashe.ru/rock-128.mp3
 ```
 
 It is also possible to run icescrobbler without parameters specified:

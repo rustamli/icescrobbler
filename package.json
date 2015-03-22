@@ -1,0 +1,26 @@
+{
+  "name": "icescrobbler",
+  "version": "1.0.0",
+  "description": "A Last.fm scrobbler for SHOUTcast or Icecast broadcasts",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "icescrobbler": "./bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lastfm",
+    "scrobbler",
+    "icecast",
+    "radio",
+    "music"
+  ],
+  "author": "Turan Rustamli",
+  "license": "ISC",
+  "dependencies": {
+    "icecast": "^1.3.1",
+    "simple-lastfm": "^1.0.5"
+  }
+}

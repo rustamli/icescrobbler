@@ -1,6 +1,6 @@
 {
   "name": "icescrobbler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Last.fm scrobbler for SHOUTcast or Icecast broadcasts",
   "main": "index.js",
   "preferGlobal": "true",

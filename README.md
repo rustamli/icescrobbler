@@ -16,7 +16,7 @@ npm install icescrobbler -g
 icescrobbler [your-lastfm-username] [your-lastfm-password] [stream-url]
 ```
 
-`strean-url` - is a url of SHOUTcast or Icecast broadcasts
+`stream-url` - is a url of SHOUTcast or Icecast broadcasts
 
 *example:*
 
